@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(13,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(14,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(24,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(373,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(377,61): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(378,61): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(384,57): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(385,57): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(452,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(452,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(468,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  menu.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\HP\Desktop\Project1\Debug\Project1.exe
